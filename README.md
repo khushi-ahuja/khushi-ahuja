@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning mern stack
 - 💞️ I’m looking to collaborate on Frontend projects with react.js
-- 📫 Reach me at hello.khushi.ahuja@gmail.com
+- 📫 Reach me at khushiahuja567@gmail.com
 
 <!---
 khushi-ahuja/khushi-ahuja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
